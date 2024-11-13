@@ -1,0 +1,16 @@
+data/
+fin.png
+lpdr.png
+ndvire.png
+overlay_map.png
+overlay_map_with_checkboxes.png
+rdre.png
+tcomb.png
+data2/
+combined_ndvi.geojson
+clipped_ndvi.geojson
+ndvi_montana7-12.geojson
+ndvi_montana0-6.geojson
+output_data.tif
+output_data_viridis.png
+viridis_overlay_map.html
